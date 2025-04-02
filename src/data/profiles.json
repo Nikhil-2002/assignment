@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "image": "/images/assPass.jpeg",
+    "description": "Web Developer",
+    "contact": "johndoe@example.com",
+    "interests": "Coding, Traveling",
+    "address": "New York, USA"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "image": "/images/assPass.jpeg",
+    "description": "Graphic Designer",
+    "contact": "janesmith@example.com",
+    "interests": "Design, Music",
+    "address": "Los Angeles, USA"
+  }
+]

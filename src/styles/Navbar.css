@@ -1,0 +1,21 @@
+.navbar {
+    padding: 12px;
+    font-weight: bold;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-button {
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-weight: bold;
+  }
+  
+  .nav-button:hover {
+    background-color: #0056b3;
+    color: white;
+  }
+  
